@@ -1,3 +1,4 @@
-Se usa un proyecto maven, para la solucion del problema se usa un algofitmo heuristico, llamado recoido simualdo, retorna la solucion mas optima o la combinacion mas optima.
+Se usa un proyecto maven. 
+Para la solución del problema se usa un algoritmo heurístico, llamado recocido simulado, que retorna la solución más óptima o la combinación más óptima.
 
 Existe una clase main en el paquete org.example con el ejemplo a ejecutar.
